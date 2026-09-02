@@ -5,7 +5,7 @@ course_title: "Intro to Health Communication"
 meeting_time: "MWF 9:05–9:55 AM"
 location: "Shanks Hall 130A"
 instructor_name: "Hannah Shinault Deuyour"
-instructor_title: "Savannah Paige Netting"
+instructor_title: "Professor"
 instructor_department: "Department of Communication"
 ---
 
