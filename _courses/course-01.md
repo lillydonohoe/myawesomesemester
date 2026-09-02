@@ -6,7 +6,7 @@ meeting_time: "MWF 9:05–9:55 AM"
 location: "Shanks Hall 130A"
 instructor_name: "Hannah Shinault Deuyour"
 instructor_title: "Savannah Paige Netting"
-instructor_department: "Advertising"
+instructor_department: "Department of Communication"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
