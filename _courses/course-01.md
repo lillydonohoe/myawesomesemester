@@ -1,12 +1,12 @@
 ---
 course_number: 1
-course_code: "COMM XXXX"
-course_title: "Course Title 1"
-meeting_time: "MWF 10:10–11:00 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+course_code: "ADV 1714"
+course_title: "Intro to Health Communication"
+meeting_time: "MWF 9:05–9:55 AM"
+location: "Shanks Hall 130A"
+instructor_name: "Hannah Shinault Deuyour"
+instructor_title: "Savannah Paige Netting"
+instructor_department: "Advertising"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
