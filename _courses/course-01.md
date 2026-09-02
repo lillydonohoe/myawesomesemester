@@ -9,15 +9,11 @@ instructor_title: "Professor"
 instructor_department: "Department of Communication"
 ---
 
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
 
 ## About this course
 
 Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+it, and what you're hoping to get out of it this semester. It is still very early on in the semester, but I am really excited to learn more in this course. 
 
 ## About Professor Name
 
