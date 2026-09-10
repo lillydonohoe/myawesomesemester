@@ -7,6 +7,22 @@
 // with HokieAI's help.
 // ------------------------------------------------------------------
 
+:root {
+  --color-bg: #fff8f0;
+  --color-surface: #ffffff;
+  --color-ink: #2b1020;
+  --color-ink-soft: #5f4b55;
+  --color-line: #d8a078;
+  --color-accent: #861f41;
+  --color-white: #ffffff;
+
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-display: Georgia, "Times New Roman", serif;
+
+  --radius: 12px;
+  --shadow: 0 4px 14px rgba(92, 16, 40, 0.15);
+}
+
 body::before,
 body::after {
   position: fixed;
@@ -34,22 +50,6 @@ body::after {
   body::after {
     display: none;
   }
-}
-
-:root {
-  --color-bg: #fff8f0;
-  --color-surface: #ffffff;
-  --color-ink: #2b1020;
-  --color-ink-soft: #5f4b55;
-  --color-line: #d8a078;
-  --color-accent: #861f41;
-  --color-white: #ffffff;
-
-  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  --font-display: Georgia, "Times New Roman", serif;
-
-  --radius: 12px;
-  --shadow: 0 4px 14px rgba(92, 16, 40, 0.15);
 }
 
 * { box-sizing: border-box; }
