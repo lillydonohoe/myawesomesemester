@@ -1,25 +1,19 @@
 ---
 course_number: 5
-course_code: "COMM XXXX"
-course_title: "Course Title 5"
-meeting_time: "MW 3:30–4:45 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Senior Instructor"
-instructor_department: "Department Name"
+course_code: "AFST 1714"
+course_title: "Introduction to African American Studies"
+meeting_time: "Online and Asychronous"
+location: "Online"
+instructor_name: "Onwubiko Agozino"
+instructor_title: "Professor"
+instructor_department: "Department of Sociology"
 ---
-
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+In this course I will be learning about African American history. Specifically the culture, identify, and experiences of African Americans. I will be diving deeper into slavery, abolition, reconstruction, Jim Crow, and different movements. I will be learning this information through readings, music, and films. I am taking this course becuae I want to learn more about different cultures and history. I am intrigued to see how music, film and other visual tools of communication can tell such strong stories.  
 
-## About Professor Name
+## About Professor Onwubiko Agozino
 
 Write a short bio paragraph about your professor: their academic background, what
 they teach, and anything else that gives your friends and family a sense of who
