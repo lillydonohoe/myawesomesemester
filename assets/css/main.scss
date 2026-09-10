@@ -7,6 +7,35 @@
 // with HokieAI's help.
 // ------------------------------------------------------------------
 
+body::before,
+body::after {
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  height: 100vh;
+  color: #861f41;
+  content: "★\A★\A★\A★\A★\A★\A★\A★\A★\A★";
+  font-size: clamp(1rem, 2vw, 1.6rem);
+  line-height: 1.9;
+  white-space: pre;
+  pointer-events: none;
+}
+
+body::before {
+  left: 0.5rem;
+}
+
+body::after {
+  right: 0.5rem;
+}
+
+@media (max-width: 700px) {
+  body::before,
+  body::after {
+    display: none;
+  }
+}
+
 :root {
   --color-bg: #fff8f0;
   --color-surface: #ffffff;
