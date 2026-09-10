@@ -3,7 +3,7 @@ course_number: 2
 course_code: "CMST 4714"
 course_title: "Senior Seminar"
 meeting_time: "MW 2:30–3:45 PM"
-location: "Building Room ###"
+location: "McBryde 013"
 instructor_name: "Carlos Evia"
 instructor_title: "Professor"
 instructor_department: "School of Communication"
