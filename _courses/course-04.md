@@ -1,46 +1,26 @@
 ---
 course_number: 4
-course_code: "COMM XXXX"
-course_title: "Course Title 4"
-meeting_time: "TR 2:00–3:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+course_code: "MTKG 4454"
+course_title: "Sales Force Management"
+meeting_time: "MW 4:00–5:15 PM"
+location: "Pamplin 1045"
+instructor_name: "Brian K. Collins"
+instructor_title: "Professor of Practice"
+instructor_department: "Department of Marketing"
 ---
-
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+This course is the only Sales class I am taking for my minor this year. This is where I will be learning how to manage a professional sales team instead of learning exactly how to sell. We will be learning how to apply sales management theories to real life business situations through case studies. Learning all these new skills which strengthening our presentaional skills, writing skills, and teamwok. There will also be a large focus on developing CRM technology skills through SmartFox. I am excited to learn mroe about being a strong sales person. My professor has a lot of knowledge and personal expereicnes to share from that I can learn from. 
 
-## About Professor Name
+## About Professor Brian Collins 
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+Professor Collins has a very strong background in sales. He is the director of the Virginia Tech Sales Center. He went to Virginia Tech where he earned his B.S in Finance with a minor in english. Before he decided to teach, he worked for 23 years in sales. He managed sale teams, closed deals, and became very successful. He then became a professor at VT and grew the Professional Sales Program to what it is now. He has such a strong background to share and I am excited for him to develop me into a strong sales person. 
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
-
-### Publications
-
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+He spends most of his time researching and learning about professional and B2B sales. He has a lot of knowledge using SmartFox and shares that knowledge with his students. His main focus is on education and applying his personal experiences to his students careers. 
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Brian Collins is very involved at Virginia Tech. He leads the Professional Sales Team, as well as being the Director of the Sales Center. He works with many companies and businesses that look to recruit trough the sales program. Everything he does, he does with the intention of benefiting his students. He also helps organize Sales Industry Day where these companies can reach out to his students and make connections. This year, Collins was named the Institite for Effective Professional Selling's College Sales Educator of the Year. He has much to be proud of as a professor, and a lot to teach his students. 
