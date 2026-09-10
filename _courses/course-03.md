@@ -1,46 +1,26 @@
 ---
 course_number: 3
-course_code: "COMM XXXX"
-course_title: "Course Title 3"
-meeting_time: "MWF 1:25–2:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Professor"
-instructor_department: "Department Name"
+course_code: "CMST 3214"
+course_title: "Professional Communication"
+meeting_time: "MW 10:10–11:00 AM"
+location: "Shanks 160"
+instructor_name: "Angela Widgeon"
+instructor_title: "Instructor"
+instructor_department: "School of Communication"
 ---
-
-_This is a placeholder page. Replace the front matter above with this course's real
-course code, title, meeting time, location, and your professor's name, title, and
-department. Then replace the section headings and body text below with your own
-research._
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester.
+This course is one I am excited to learn more about. This course is teaching how to communicate effectively in professional and business settings. There will be much practice to improve presentational and public speaking skills as well. There is a big part on how to learn communicating virtually since many jobs are remote these days. Also we will learn more about how to use LinkedIn, create a strong elevator pith, and give a professional presentation. I am excited to develop these skills since they directly apply to the real world after graduation. 
 
-## About Professor Name
+## About Professor Angela Widgeon
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+She is an instructor in the School of Communication here at Virginia Tech. She got her PH.D from the University of Alabama. She taught at Liberty University before coming to Virginia Tech a few years ago. She has also taught courses about advertising and public relations. She is very focused on helping student develop strong skills that will help them in their future careers. 
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
-
-### Publications
-
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+She mainly focuses on the areas she teaches. She researches and studies professional and business communication in order to share helpful information to us as students. She has experience in public speaking and giving presentations. She is teaching and grading us in areas she has personal experiences in. 
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Angela Widgeon is currently on the Virginia Techs College of Liberal Art and Human Sciences Faculty Council. Everything she is apart of represents the school of communication. When she taught at Liberty University she lead their National Student Advertising Competition. Due to her knowledge and commitment to the team, they placed second and received the top presentation award. She is a strong mentor and teacher, with many experiences to share with her students. 
