@@ -1,9 +1,9 @@
 ---
 course_number: 1
-course_code: "ADV 1714"
+course_code: "ADV 2134"
 course_title: "Intro to Health Communication"
 meeting_time: "MWF 9:05–9:55 AM"
-location: "Shanks Hall 130A"
+location: "Surge 103A"
 instructor_name: "Hannah Shinault Deuyour"
 instructor_title: "Professor"
 instructor_department: "Department of Communication"
@@ -12,31 +12,16 @@ instructor_department: "Department of Communication"
 
 ## About this course
 
-Write a short paragraph about the course itself: what it covers, why you're taking
-it, and what you're hoping to get out of it this semester. It is still very early on in the semester, but I am really excited to learn more in this course. 
+This course is teaching students how communication affects health, healthcare, and people's decisions regarding health. Learning about communication between health care providers and patients is very important and there will be a main focus on this in this course. Also studying how health is portrayed through media, and how certain posts can affect people. One of the projects we will be doing is creating our own communication project for the public to view. I hope to better understand how important communication can be regarding health. 
 
-## About Professor Name
+## About Professor Hannah Shinault Deuyour
 
-Write a short bio paragraph about your professor: their academic background, what
-they teach, and anything else that gives your friends and family a sense of who
-they are.
+My professor, Hannah Shinault Deuyour, is a collegiate Professor and Associate Director of Virginia Tech's School of Communication. She has been part of the faculty staff at VT for over 15 years. She attended the University of Tennessee where she got her Ph.D in Communications, and received her masters at Virginia Tech in Public Health. She has much to teach us in both communication and health, as well as combining the two. 
 
 ### Research interests
 
-Describe what your professor researches. Look up their faculty profile page, their
-department bio, or their personal/lab website and summarize their main research
-areas in your own words.
-
-### Publications
-
-List a few of your professor's notable publications (articles, books, book
-chapters). A simple bulleted list works well:
-
-- Citation or title of a representative publication
-- Citation or title of another publication
+My Professors main expertise is in Health Communication. She is also very good at teaching that information to students with different academic backgrounds. 
 
 ### Service and outreach
 
-Describe any service or outreach work your professor is involved in — committee
-work, community partnerships, public scholarship, mentoring programs, or similar
-efforts beyond their research and teaching.
+Professor Deuyour is a part of much service and outreach. She is the Associate Director of the School of Communication. She does her best to improve her students experiences in the school of Comm. She is also the professor who developed the Health Communication Pathway minor, which is very impressive for Virginia Tech as well. Finally, she was the faculty advisor for Lambda Pi Eta, which is the national communication associations honor society. She is a shooting star in the school of communication, with much to be proud of. 
