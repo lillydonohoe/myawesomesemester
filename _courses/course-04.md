@@ -1,6 +1,6 @@
 ---
 course_number: 4
-course_code: "MTKG 4454"
+course_code: "MKTG 4454"
 course_title: "Sales Force Management"
 meeting_time: "MW 4:00–5:15 PM"
 location: "Pamplin 1045"
@@ -17,7 +17,7 @@ This course is the only Sales class I am taking for my minor this year. This is 
 
 Professor Collins has a very strong background in sales. He is the director of the Virginia Tech Sales Center. He went to Virginia Tech where he earned his B.S in Finance with a minor in english. Before he decided to teach, he worked for 23 years in sales. He managed sale teams, closed deals, and became very successful. He then became a professor at VT and grew the Professional Sales Program to what it is now. He has such a strong background to share and I am excited for him to develop me into a strong sales person. 
 
-### Research interests
+### Teaching interests
 
 He spends most of his time researching and learning about professional and B2B sales. He has a lot of knowledge using SmartFox and shares that knowledge with his students. His main focus is on education and applying his personal experiences to his students careers. 
 
